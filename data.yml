@@ -1,5 +1,12 @@
 defaultStorageMapping: TARGET
-jobs: {}
+jobs:
+  Job-1:
+    excludeSelector: ""
+    id: 1
+    includeSelector: "+{ location: TARGET name: DIM_CUSTOMER }"
+    name: Dim Customer
+    steps: []
+    subgraphs: []
 locations:
   SOURCE:
     mappingDefinitions:
