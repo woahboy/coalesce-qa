@@ -1,5 +1,5 @@
 steps:
-  REGION-5b805b18-ecbf-4b2d-8b9d-055c1dd8b3ab:
+  REGION-50bd5d25-a776-4933-9b94-3ccd076d80d3:
     operation:
       database: ""
       dataset: ""
@@ -14,8 +14,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 3a229699-c114-4d87-beb3-6d7418520112
-              stepCounter: 5b805b18-ecbf-4b2d-8b9d-055c1dd8b3ab
+              columnCounter: f7143f24-600f-4c6a-9778-7e11ed83dd32
+              stepCounter: 50bd5d25-a776-4933-9b94-3ccd076d80d3
             config: {}
             dataType: NUMBER(38,0)
             defaultValue: ""
@@ -29,8 +29,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 59abe85e-4856-4ad1-bcef-4c150e6d1bde
-              stepCounter: 5b805b18-ecbf-4b2d-8b9d-055c1dd8b3ab
+              columnCounter: e94d4e7f-0c4b-4922-b74c-199a6df4bd29
+              stepCounter: 50bd5d25-a776-4933-9b94-3ccd076d80d3
             config: {}
             dataType: VARCHAR(25)
             defaultValue: ""
@@ -44,8 +44,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 71460716-66c6-44ec-bae5-02a7cfbccc88
-              stepCounter: 5b805b18-ecbf-4b2d-8b9d-055c1dd8b3ab
+              columnCounter: b98e519e-5db4-4a98-bb74-e8f8378cbbc7
+              stepCounter: 50bd5d25-a776-4933-9b94-3ccd076d80d3
             config: {}
             dataType: VARCHAR(152)
             defaultValue: ""
@@ -61,4 +61,4 @@ steps:
       sqlType: Source
       table: REGION
       type: sourceInput
-    stepCounter: 5b805b18-ecbf-4b2d-8b9d-055c1dd8b3ab
+    stepCounter: 50bd5d25-a776-4933-9b94-3ccd076d80d3
